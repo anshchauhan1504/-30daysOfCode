@@ -6,6 +6,10 @@
 
 // Expression: ((a+b))
 // The expression can be reduced to (a+b). Hence the expression has redundant brackets and the output will be 'true'.
+//Sample Input 1:
+//a+(b)+c 
+//Sample Output 1:
+//true
 #include <bits/stdc++.h>
 #include <stack>
 using namespace std;
