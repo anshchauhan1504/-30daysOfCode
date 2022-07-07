@@ -9,7 +9,7 @@
 // 6
 // 3 12 34 2 0 -1
 // Sample Output 1 :
-// 34 2 0 -1
+// 34 2 0 -1;
 #include<iostream>
 #include<climits>
 using namespace std;
